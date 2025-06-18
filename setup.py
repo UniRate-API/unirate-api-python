@@ -2,18 +2,18 @@ from setuptools import setup, find_packages
 
 setup(
     name="unirate-api",
-    version="0.1.0",
+    version="0.2.0",
     packages=find_packages(),
     install_requires=[
         "requests>=2.25.0",
         "python-dateutil>=2.8.0"
     ],
     author="Unirate Team",
-    author_email="team@unirateapi.com",
-    description="Official Python client for the Unirate API",
+    author_email="admin@unirateapi.com",
+    description="Official Python client for the Unirate API - real-time and historical currency exchange rates",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/unirateapi/unirate-python",
+    url="https://github.com/UniRate-API/unirate-api-python",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
