@@ -344,6 +344,17 @@ Historical data is available from 1999 to 2025, with coverage varying by currenc
 - **IMPROVED**: Better error handling with specific exception types
 - **IMPROVED**: Enhanced response parsing for new API structure
 
+## Related clients
+
+- [unirate-api-nodejs](https://github.com/UniRate-API/unirate-api-nodejs) — Node.js / TypeScript (npm: `unirate-api`)
+- [unirate-api-swift](https://github.com/UniRate-API/unirate-api-swift) — Swift (SPM)
+- [unirate-api-java](https://github.com/UniRate-API/unirate-api-java) — Java (Maven)
+- [unirate-api-go](https://github.com/UniRate-API/unirate-api-go) — Go
+- [unirate-api-rust](https://github.com/UniRate-API/unirate-api-rust) — Rust (crates.io: `unirate-api`)
+- [unirate-api-ruby](https://github.com/UniRate-API/unirate-api-ruby) — Ruby (gem: `unirate-api`)
+- [unirate-api-php](https://github.com/UniRate-API/unirate-api-php) — PHP (Composer: `unirate-api/unirate-api`)
+- [unirate-api-dotnet](https://github.com/UniRate-API/unirate-api-dotnet) — .NET / C# (NuGet: `UniRateApi`)
+
 ## License
 
 MIT License
