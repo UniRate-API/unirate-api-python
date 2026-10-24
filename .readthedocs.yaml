@@ -17,6 +17,7 @@ python:
   install:
     - requirements: docs/requirements.txt
 
-formats:
-  - pdf
-  - epub
+# HTML only: it carries the docs (and the backlinks). PDF/EPUB would add a
+# LaTeX build on RTD's infra we don't exercise locally — omit to keep the
+# first build deterministic.
+formats: []
